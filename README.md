@@ -1,7 +1,16 @@
 # VFIO
 =========
 
-A meta role to setup a node for VFIO passthrough on KVM Hypervisor! use as a dependency to simplify other roles.
+A meta role to setup a node for VFIO passthrough on KVM Hypervisor. use as a dependency to simplify other roles.
+
+Dependencies
+------------
+this may change over time, but currently:
+- OVMF
+- enable IOMMU
+- performance
+- vfio-pci Kernel Module
+- blacklist
 
 Requirements
 ------------
