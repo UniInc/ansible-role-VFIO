@@ -35,4 +35,4 @@ dependencies:
 - UniInc.enable-IOMMU
 - UniInc.KVM-performance
 - UniInc.vfio-pci-Kernel-module
-# - blacklist
+# - UniInc.VFIO-blacklist
