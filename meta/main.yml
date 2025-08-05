@@ -32,7 +32,7 @@ galaxy_info:
 
 dependencies:
 - UniInc.OVMF
-- UniInc.enable-IOMMU
+- UniInc.Enable-IOMMU
 - UniInc.KVM-performance
-- UniInc.vfio-pci-Kernel-module
+- UniInc.VFIO-pci-Kernel-module
 # - UniInc.VFIO-blacklist
