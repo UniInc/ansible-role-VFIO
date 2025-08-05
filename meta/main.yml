@@ -31,8 +31,8 @@ galaxy_info:
     #       Maximum 20 tags per role.
 
 dependencies:
-- OVMF
-- enable IOMMU
-- performance
-- vfio-pci Kernel Module
+- UniInc.OVMF
+- UniInc.enable-IOMMU
+- UniInc.KVM-performance
+- UniInc.vfio-pci-Kernel-module
 # - blacklist

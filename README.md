@@ -7,10 +7,10 @@ Dependencies
 ------------
 this may change over time, but currently:
 - OVMF
-- enable IOMMU
-- performance
-- vfio-pci Kernel Module
-- blacklist
+- enable-IOMMU
+- KVM-performance
+- vfio-pci-Kernel-module
+# - blacklist
 
 Requirements
 ------------
